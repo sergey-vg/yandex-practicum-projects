@@ -23,7 +23,7 @@
 | [15.Классификатор токсичности комментариев](toxic_comments) | Обучение модели классификации на определение токсичных комментариев. | *catboost*, *gensim*, *nltk*, *numpy*, *optuna*, *pandas*, *sklearn*, *spacy*, *torch*, *transformers* |
 | [16.Определение возраста покупателей](cv_age_determination) | Определение возраста покупателей по фотографии с помощью нейронной сети. | *keras*, *numpy*, *pandas*, *seaborn*, *matplotlib* |
 | [17.Поиск изображений по запросу](image_search) | Разработка модели соответствия изображения текстовому описанию. | *keras*, *numpy*, *pandas*, *seaborn*, *sklearn*, *matplotlib*, *tensorflow*, *torch*, *spacy* |
-| [18. Дипломный проект. Прогнозирование температуры стали](diploma_prediction_steel_temperature) | Построение модели по предсказанию температуры стали. | *сatboost*, *numpy*, *pandas*, *seaborn*, *sklearn*, *matplotlib*, *optuna*, *tensorflow*, *keras*, *sqlalchemy*|
+| [18. Дипломный проект. Прогнозирование температуры стали](18. diploma_prediction_steel_temperature) | Построение модели по предсказанию температуры стали. | *сatboost*, *numpy*, *pandas*, *seaborn*, *sklearn*, *matplotlib*, *optuna*, *tensorflow*, *keras*, *sqlalchemy*|
 
 ## Примечание
 

@@ -26,8 +26,6 @@
 - matplotlib
 - pandas
 - sklearn
-- scipy
-- random
  
 ## Итоговые результаты
 
